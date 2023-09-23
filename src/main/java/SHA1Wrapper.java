@@ -1,18 +1,12 @@
-package org.example;
-
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.BitSet;
 
 public class SHA1Wrapper {
-    private static MessageDigest d;
+    private MessageDigest d;
 
-    static {
-        try {
-            d = MessageDigest.getInstance("SHA-1");
-        } catch (NoSuchAlgorithmException e) {
-            throw new RuntimeException(e);
-        }
+    public SHA1Wrapper() throws NoSuchAlgorithmException {
+        d = MessageDigest.getInstance("SHA-1");
     }
 
     private static String byte_arr_to_binary_str(byte[] arr){
@@ -23,8 +17,8 @@ public class SHA1Wrapper {
         return sb.toString();
     }
 
-    public static String hash(byte[] in, int num_bits){ //get the first num_bits bits from the hash binary string
+    public long hash(byte[] in, long num_bits){ //get the first num_bits bits from the hash binary string
         byte[] out = d.digest(in);
-        return byte_arr_to_binary_str(out).substring(0, num_bits);
+        return Long.parseLong(byte_arr_to_binary_str(out).substring(0, (int) num_bits), 2);
     }
 }

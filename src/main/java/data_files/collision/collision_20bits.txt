@@ -1,0 +1,1014 @@
+Collision Attack. Number of Bits: 20
+Number of Sample: 200
+Raw Data
+
+Sample #: 1
+Number of Guesses: 1588
+Original Message and Hash : 568f4dc4-5db3-4966-9ccb-dab9ae59270c->584604
+Collision Message and Hash: 4af02379-6924-415b-8d9a-920e02948620->584604
+-------------------------------------------------------------------------
+Sample #: 2
+Number of Guesses: 1147
+Original Message and Hash : 47fa424d-28f8-4f5d-a55d-0e0e6ddc5226->1028498
+Collision Message and Hash: 91938bee-5e1d-480e-b452-8f96cf18beba->1028498
+-------------------------------------------------------------------------
+Sample #: 3
+Number of Guesses: 807
+Original Message and Hash : a5be516a-9d3c-45d4-b32d-d50c9300469b->427677
+Collision Message and Hash: 5579ce58-0644-42b4-af77-afdf2c7f36c3->427677
+-------------------------------------------------------------------------
+Sample #: 4
+Number of Guesses: 1472
+Original Message and Hash : 8effc412-3887-4fb8-9436-bb721bf6d3aa->257522
+Collision Message and Hash: 8439d64d-09da-4482-83bc-36bde0c266af->257522
+-------------------------------------------------------------------------
+Sample #: 5
+Number of Guesses: 544
+Original Message and Hash : 14dc837d-c9bc-4db8-a919-73b9acd6ba4e->447401
+Collision Message and Hash: aa6dfb5e-550a-4e14-835c-f00a82a42e1b->447401
+-------------------------------------------------------------------------
+Sample #: 6
+Number of Guesses: 1668
+Original Message and Hash : e3c9fca9-c575-4ac0-9156-a619e3dcdae6->763436
+Collision Message and Hash: 8ff902cc-e588-463e-a4fa-a48adc05bedb->763436
+-------------------------------------------------------------------------
+Sample #: 7
+Number of Guesses: 889
+Original Message and Hash : e2a7b429-5476-470d-9026-73e8d7ceebec->707383
+Collision Message and Hash: 9729a932-0657-403a-8953-9b12a9e921e2->707383
+-------------------------------------------------------------------------
+Sample #: 8
+Number of Guesses: 1602
+Original Message and Hash : 9337cf72-59ee-414d-9f8e-494e4ae21ba9->118426
+Collision Message and Hash: e4e7c8f5-3cea-4f39-9e66-ad4ae93a75ad->118426
+-------------------------------------------------------------------------
+Sample #: 9
+Number of Guesses: 962
+Original Message and Hash : 8724931d-ed76-4dce-8ab0-a2529cd75162->466782
+Collision Message and Hash: 3ff5d454-e122-49de-a3c7-779e8a1abd20->466782
+-------------------------------------------------------------------------
+Sample #: 10
+Number of Guesses: 814
+Original Message and Hash : f3e86e50-7c79-427a-b986-971c6a5d3755->379466
+Collision Message and Hash: 5e34087c-699f-495a-aa8f-f7791f3e5d89->379466
+-------------------------------------------------------------------------
+Sample #: 11
+Number of Guesses: 1546
+Original Message and Hash : 6899838f-197b-4aeb-8642-ec167ecf93a8->676624
+Collision Message and Hash: 71dac39f-05c3-46aa-b418-d44bdb78e8d0->676624
+-------------------------------------------------------------------------
+Sample #: 12
+Number of Guesses: 2560
+Original Message and Hash : db3f2f99-4cf6-4783-acb3-dd9ecf3be67c->925975
+Collision Message and Hash: cac5c895-4497-4299-ab87-83aed84e3a76->925975
+-------------------------------------------------------------------------
+Sample #: 13
+Number of Guesses: 1185
+Original Message and Hash : 2b8c5763-ff94-4874-9040-865df9685bc3->938445
+Collision Message and Hash: ee9a3378-0ac0-4c2a-9658-79678c9e5d25->938445
+-------------------------------------------------------------------------
+Sample #: 14
+Number of Guesses: 2340
+Original Message and Hash : fa41ce56-e2eb-41ac-9b03-68d3e7bf8d75->956925
+Collision Message and Hash: 041c00ed-8ccb-4d74-9b04-447d58ed5b3e->956925
+-------------------------------------------------------------------------
+Sample #: 15
+Number of Guesses: 1517
+Original Message and Hash : b9173771-b10e-46e7-a92e-e90f70c36d99->87330
+Collision Message and Hash: 8861291e-2e61-4a44-a8a6-de482f65d3d8->87330
+-------------------------------------------------------------------------
+Sample #: 16
+Number of Guesses: 1001
+Original Message and Hash : 39abf358-c716-4b1b-9c4f-4af74b9038b6->726237
+Collision Message and Hash: 125f1a7f-a879-4d8a-93e8-bf895e7c9d28->726237
+-------------------------------------------------------------------------
+Sample #: 17
+Number of Guesses: 500
+Original Message and Hash : 99904a74-459e-4294-a687-545c6a4dac73->128881
+Collision Message and Hash: 3be09278-1284-4fb9-bf3d-12d9a0f32171->128881
+-------------------------------------------------------------------------
+Sample #: 18
+Number of Guesses: 240
+Original Message and Hash : 1d32c464-bd86-43cf-b0a7-059e6378fa53->968728
+Collision Message and Hash: d72ac02b-6f02-4a83-a419-43101775a7d4->968728
+-------------------------------------------------------------------------
+Sample #: 19
+Number of Guesses: 439
+Original Message and Hash : ffb835bc-f99a-4d6a-a975-ee52d980ef10->399904
+Collision Message and Hash: 557928e9-b36d-4c73-abf9-b7e4ed4f66b5->399904
+-------------------------------------------------------------------------
+Sample #: 20
+Number of Guesses: 1487
+Original Message and Hash : 96af0a23-d6c2-4da4-8b44-3cc160919602->812393
+Collision Message and Hash: a974ee8b-0106-46f8-893e-87e89a89609d->812393
+-------------------------------------------------------------------------
+Sample #: 21
+Number of Guesses: 1629
+Original Message and Hash : 0573638f-bf76-4ac4-bad2-a1b36b54382d->727650
+Collision Message and Hash: a90cbf09-f080-4db6-9b57-6ebc4b2adde6->727650
+-------------------------------------------------------------------------
+Sample #: 22
+Number of Guesses: 755
+Original Message and Hash : 4351718a-2685-4936-9c87-ac1d8b5b8f4a->1024696
+Collision Message and Hash: c821778a-58a3-43cc-b20f-808823cfe8a7->1024696
+-------------------------------------------------------------------------
+Sample #: 23
+Number of Guesses: 1074
+Original Message and Hash : 5fcc147f-8fae-4533-a0ec-1f8b94e1b040->152465
+Collision Message and Hash: 8e8d884b-10dc-4317-a2c9-3d3650bc49bc->152465
+-------------------------------------------------------------------------
+Sample #: 24
+Number of Guesses: 231
+Original Message and Hash : 0ffcb52f-e182-4778-9260-f712704546ce->61551
+Collision Message and Hash: bcc0b948-306c-4a15-8cf0-a6764691d1f1->61551
+-------------------------------------------------------------------------
+Sample #: 25
+Number of Guesses: 1986
+Original Message and Hash : f2f9a431-5e02-4541-9c16-f1c1cfa40023->895338
+Collision Message and Hash: 63aceafe-a1e6-47ef-ab59-56117eaea01d->895338
+-------------------------------------------------------------------------
+Sample #: 26
+Number of Guesses: 856
+Original Message and Hash : fef5831e-f2b6-4a4e-96d5-5958cfb5996c->910617
+Collision Message and Hash: 73d130a8-59b1-4aff-9628-05916d005c73->910617
+-------------------------------------------------------------------------
+Sample #: 27
+Number of Guesses: 1339
+Original Message and Hash : 7f264aa2-6361-4413-b73c-882b8f46b614->40884
+Collision Message and Hash: 83d79f8a-e875-4c2c-811c-e3d235047a36->40884
+-------------------------------------------------------------------------
+Sample #: 28
+Number of Guesses: 1042
+Original Message and Hash : 80d4e27c-c226-47ea-af1b-23e7201addd6->1013609
+Collision Message and Hash: 1e804195-e214-4079-b6c0-88024bd16e61->1013609
+-------------------------------------------------------------------------
+Sample #: 29
+Number of Guesses: 812
+Original Message and Hash : 8c64f77a-08ee-4e98-8f12-4ade7329fb46->298369
+Collision Message and Hash: 5411b485-b27e-4e7e-aff2-e1e5305fd29b->298369
+-------------------------------------------------------------------------
+Sample #: 30
+Number of Guesses: 841
+Original Message and Hash : 0d6462ef-beef-4f7e-ae2b-32cc88a481b4->23423
+Collision Message and Hash: 5f5aaa6b-5294-424c-a73e-c5452825c0a7->23423
+-------------------------------------------------------------------------
+Sample #: 31
+Number of Guesses: 449
+Original Message and Hash : b0e4c5c1-e050-4a2e-bffe-bcb49065ce9f->671682
+Collision Message and Hash: 5d112339-5def-4707-ab6c-5910a9a0b29d->671682
+-------------------------------------------------------------------------
+Sample #: 32
+Number of Guesses: 1926
+Original Message and Hash : caca64b2-a515-499c-b96c-000b8c906ad8->707570
+Collision Message and Hash: 2af0d767-57bb-4422-851f-fb310c27b502->707570
+-------------------------------------------------------------------------
+Sample #: 33
+Number of Guesses: 633
+Original Message and Hash : a20d03da-5275-4f39-90e7-a6ef740966e1->895739
+Collision Message and Hash: 29d10ff1-41f1-4667-8bd0-f34cdcd06f71->895739
+-------------------------------------------------------------------------
+Sample #: 34
+Number of Guesses: 1934
+Original Message and Hash : ecf2d6f0-01cd-4268-93d3-2cd5ca89cf3e->463065
+Collision Message and Hash: 72b8de2c-483e-4a84-85ef-d3226a4dfd58->463065
+-------------------------------------------------------------------------
+Sample #: 35
+Number of Guesses: 905
+Original Message and Hash : 44eb13c8-303d-4edb-a3a9-04f5e3beae4f->477202
+Collision Message and Hash: 4881ae36-df5b-4569-95b6-07f451ec2c1d->477202
+-------------------------------------------------------------------------
+Sample #: 36
+Number of Guesses: 1417
+Original Message and Hash : 7361ed49-b79f-4be8-96f2-0b5442a48e5a->469120
+Collision Message and Hash: 57ce53a0-4951-4e24-a4b8-7a92bde91682->469120
+-------------------------------------------------------------------------
+Sample #: 37
+Number of Guesses: 1666
+Original Message and Hash : ee7296b7-ba51-4f06-8dbd-7597b12114ba->197356
+Collision Message and Hash: 1d63013c-df0f-4831-8118-6a1fc93490c4->197356
+-------------------------------------------------------------------------
+Sample #: 38
+Number of Guesses: 607
+Original Message and Hash : 9ca3b9d4-2501-4a9a-a763-e5c0f83931f2->30396
+Collision Message and Hash: d4fd7f0d-a48d-41f1-a5a4-aef2e29aa6be->30396
+-------------------------------------------------------------------------
+Sample #: 39
+Number of Guesses: 2229
+Original Message and Hash : 8600fe63-66f5-4f4a-a710-04d42e3f6bfe->460000
+Collision Message and Hash: a93ca72b-687b-481b-9c35-41214df96336->460000
+-------------------------------------------------------------------------
+Sample #: 40
+Number of Guesses: 1683
+Original Message and Hash : 5193447c-957c-4c32-a5fa-790e6d2e391b->117909
+Collision Message and Hash: 7a07c0f6-5ca7-4eca-b046-cce9da0b53be->117909
+-------------------------------------------------------------------------
+Sample #: 41
+Number of Guesses: 1183
+Original Message and Hash : e90e4963-3147-4df4-94dc-cf71fbf5b8d7->120093
+Collision Message and Hash: 77696fa0-3dc6-4cf0-863e-1d1671f21b5a->120093
+-------------------------------------------------------------------------
+Sample #: 42
+Number of Guesses: 723
+Original Message and Hash : 4552fecf-e435-40e9-b6f5-fcc56b85ee65->1022402
+Collision Message and Hash: 9073a712-8820-449d-89eb-984da5a109d7->1022402
+-------------------------------------------------------------------------
+Sample #: 43
+Number of Guesses: 1110
+Original Message and Hash : f84b9c67-abc4-471d-b6fb-a286905df934->957465
+Collision Message and Hash: cc670e72-9d5e-4eb4-ac2f-e1e2a422ba88->957465
+-------------------------------------------------------------------------
+Sample #: 44
+Number of Guesses: 952
+Original Message and Hash : b7515605-247f-425c-b587-0ced7270b301->733341
+Collision Message and Hash: d7473e63-b59f-4409-9441-5e2806a98bd3->733341
+-------------------------------------------------------------------------
+Sample #: 45
+Number of Guesses: 1883
+Original Message and Hash : 92db1207-dccf-456e-b143-cb340d881f6c->293200
+Collision Message and Hash: 92da6d91-9604-4226-b458-ed8e37c81bde->293200
+-------------------------------------------------------------------------
+Sample #: 46
+Number of Guesses: 1738
+Original Message and Hash : 99485730-fc07-4e3b-b689-326f38b21df0->719093
+Collision Message and Hash: c6f23eef-653d-4c15-b543-fe561d1c2760->719093
+-------------------------------------------------------------------------
+Sample #: 47
+Number of Guesses: 242
+Original Message and Hash : 80ebef2e-f514-43af-b872-84670cdac8a6->815102
+Collision Message and Hash: a88cde23-233d-473d-80fc-9d5d0a68ed82->815102
+-------------------------------------------------------------------------
+Sample #: 48
+Number of Guesses: 2114
+Original Message and Hash : d4bef9f1-652f-43f6-8553-6fee0fc5dace->408249
+Collision Message and Hash: ac669e8e-fc9e-432c-83ee-22f71baeedc3->408249
+-------------------------------------------------------------------------
+Sample #: 49
+Number of Guesses: 1702
+Original Message and Hash : 3eb2b39a-fe0a-4e5e-905b-c91797ef0d8f->859505
+Collision Message and Hash: a489d8f6-e38f-4ba1-8ced-4892acd459f9->859505
+-------------------------------------------------------------------------
+Sample #: 50
+Number of Guesses: 1313
+Original Message and Hash : 59a2e6d2-8881-49f3-aba1-822c506125c3->775510
+Collision Message and Hash: 4dec12d6-ba3b-4e49-b134-846d7de3a8ee->775510
+-------------------------------------------------------------------------
+Sample #: 51
+Number of Guesses: 1921
+Original Message and Hash : 1924a2a4-ccfe-4d8f-8072-c784c58b199e->528031
+Collision Message and Hash: 2a771550-e0ec-40b8-a06d-e4b26fab17e8->528031
+-------------------------------------------------------------------------
+Sample #: 52
+Number of Guesses: 356
+Original Message and Hash : c93cfb25-7659-4df5-8bd0-07b65c7061c8->441365
+Collision Message and Hash: 520a2fa2-aa35-4325-a535-4cd2082bf4d3->441365
+-------------------------------------------------------------------------
+Sample #: 53
+Number of Guesses: 627
+Original Message and Hash : 40b2dafe-d5cb-4f60-b4b2-3fdfd094c480->274269
+Collision Message and Hash: 195b4957-e864-46eb-87f1-404de5a67edc->274269
+-------------------------------------------------------------------------
+Sample #: 54
+Number of Guesses: 837
+Original Message and Hash : 7530f580-fa8e-48ee-be3c-b39b72e056ce->526904
+Collision Message and Hash: f45e08a2-d2a6-4d30-96be-f6354e50fcdf->526904
+-------------------------------------------------------------------------
+Sample #: 55
+Number of Guesses: 1963
+Original Message and Hash : 2f002a3d-4bde-4d9f-8227-9f0afce0a7cf->988004
+Collision Message and Hash: 5fdc928a-636b-48e1-b00a-7d5d318da601->988004
+-------------------------------------------------------------------------
+Sample #: 56
+Number of Guesses: 1932
+Original Message and Hash : e73746ba-c08c-4fe2-a078-bc270dbc7bf9->333293
+Collision Message and Hash: 19f314ae-1177-4fee-8ab7-3bf8b70893fc->333293
+-------------------------------------------------------------------------
+Sample #: 57
+Number of Guesses: 1738
+Original Message and Hash : 77139908-76ec-4f63-b603-e16ba272283a->342476
+Collision Message and Hash: cef776d8-5632-4e4d-8cf1-d78c1105ac2d->342476
+-------------------------------------------------------------------------
+Sample #: 58
+Number of Guesses: 2405
+Original Message and Hash : 62ec8758-a460-46e3-881a-a64c1dd9318f->513471
+Collision Message and Hash: 2840eebe-1ae4-4fcd-ab94-641b6e92cb00->513471
+-------------------------------------------------------------------------
+Sample #: 59
+Number of Guesses: 1228
+Original Message and Hash : 82ba7820-ddde-4a47-a457-812c8b5cff49->41181
+Collision Message and Hash: ed1d1ada-c3b0-472d-9492-440589b6f166->41181
+-------------------------------------------------------------------------
+Sample #: 60
+Number of Guesses: 485
+Original Message and Hash : 61e1c7fd-5295-49a8-8bcd-48262d827407->1043710
+Collision Message and Hash: c3ca7acf-b0be-490c-a273-2ec88ef4e5e2->1043710
+-------------------------------------------------------------------------
+Sample #: 61
+Number of Guesses: 525
+Original Message and Hash : d9c27f3d-d82b-4c01-92e5-243dd27c35f5->701055
+Collision Message and Hash: 79f35b83-d57c-4dda-983d-d6d12e386c33->701055
+-------------------------------------------------------------------------
+Sample #: 62
+Number of Guesses: 1987
+Original Message and Hash : fbd554f9-3861-4eda-824c-4e4f3ea47a76->797039
+Collision Message and Hash: d5f288e4-1e6b-4828-b549-44d7d45b4e5b->797039
+-------------------------------------------------------------------------
+Sample #: 63
+Number of Guesses: 925
+Original Message and Hash : 95023105-9669-4c18-aaba-c991794c6d65->495837
+Collision Message and Hash: 29a8c263-463b-41ac-91b3-dbc68b26086b->495837
+-------------------------------------------------------------------------
+Sample #: 64
+Number of Guesses: 1215
+Original Message and Hash : 62e915a0-4214-46de-aabe-55ae19cf96c6->959570
+Collision Message and Hash: 62942175-9da4-4be1-b93d-2be26b792801->959570
+-------------------------------------------------------------------------
+Sample #: 65
+Number of Guesses: 1224
+Original Message and Hash : 3f338ade-2a2b-4df2-85dd-61d5a10dc492->952292
+Collision Message and Hash: b44d45c7-fddd-4535-9ac7-0864017d6f85->952292
+-------------------------------------------------------------------------
+Sample #: 66
+Number of Guesses: 2261
+Original Message and Hash : cf2f800d-79f0-4dcf-9a34-7916bc33b875->957836
+Collision Message and Hash: d45b4332-3bcf-4f59-bf60-41632b517409->957836
+-------------------------------------------------------------------------
+Sample #: 67
+Number of Guesses: 876
+Original Message and Hash : a0b7c09d-094b-4186-8782-0e060da7817e->754484
+Collision Message and Hash: f62ae9f6-2091-465d-ade2-cb9b53a6c965->754484
+-------------------------------------------------------------------------
+Sample #: 68
+Number of Guesses: 1106
+Original Message and Hash : 68c6e6da-c88b-4461-9359-b377a1f5d01c->503825
+Collision Message and Hash: a6b13ae9-15b4-4cf8-92a2-dd95785b2f4a->503825
+-------------------------------------------------------------------------
+Sample #: 69
+Number of Guesses: 870
+Original Message and Hash : 67b13590-859e-4765-bbd6-33e6668bb35c->217580
+Collision Message and Hash: 20097994-9215-49ac-bca7-53ab45230639->217580
+-------------------------------------------------------------------------
+Sample #: 70
+Number of Guesses: 1619
+Original Message and Hash : 9d6b2d48-4a76-4a35-a586-e493608a9c40->531439
+Collision Message and Hash: 907416b5-9b19-4015-97eb-21a4213ac8be->531439
+-------------------------------------------------------------------------
+Sample #: 71
+Number of Guesses: 1613
+Original Message and Hash : 53e01571-025b-4f68-a1a6-7e29ee4ffc3b->797158
+Collision Message and Hash: 9c11be44-ac97-457d-aa97-433775d0ddde->797158
+-------------------------------------------------------------------------
+Sample #: 72
+Number of Guesses: 2392
+Original Message and Hash : e76c83c1-4a4a-4150-8d8e-a816e4e42438->523115
+Collision Message and Hash: c4299cc2-9445-4298-b343-b2edfeefaf36->523115
+-------------------------------------------------------------------------
+Sample #: 73
+Number of Guesses: 1333
+Original Message and Hash : 129034ae-9428-4747-b01f-6eb13f6e1f56->626946
+Collision Message and Hash: af23bd79-1d52-4c36-ad3b-5b8ddbfca7ad->626946
+-------------------------------------------------------------------------
+Sample #: 74
+Number of Guesses: 964
+Original Message and Hash : df1257bd-69b3-4b12-9425-cfb349576146->271477
+Collision Message and Hash: 7061857c-1e36-4841-9ba4-815fe8d0dee9->271477
+-------------------------------------------------------------------------
+Sample #: 75
+Number of Guesses: 891
+Original Message and Hash : a8f6260f-a75c-4876-9d8f-a3a29a6687c8->651179
+Collision Message and Hash: bf371dcd-b026-440b-b12d-b0cb3bd3ed52->651179
+-------------------------------------------------------------------------
+Sample #: 76
+Number of Guesses: 1191
+Original Message and Hash : 7e76b53f-61fc-425a-b1ca-3e7faed589ca->616827
+Collision Message and Hash: ffad242e-1862-4716-bc21-9831ca3d81b6->616827
+-------------------------------------------------------------------------
+Sample #: 77
+Number of Guesses: 1954
+Original Message and Hash : c7d99f7f-3096-4cf7-8375-b6b648d2bbcc->457275
+Collision Message and Hash: 0bc733d3-20df-48c1-8a66-a420e59dfcb1->457275
+-------------------------------------------------------------------------
+Sample #: 78
+Number of Guesses: 486
+Original Message and Hash : 67ed17e5-6e72-44cf-9aaa-254277711ea8->239770
+Collision Message and Hash: a0e5c2e8-a646-4ab7-b5b7-a1a0d9ff5c59->239770
+-------------------------------------------------------------------------
+Sample #: 79
+Number of Guesses: 1079
+Original Message and Hash : 71e37b0c-c7ee-4c79-8287-fa2607a55199->533551
+Collision Message and Hash: 1cb06b6a-2929-4f6f-915c-4423e44917fc->533551
+-------------------------------------------------------------------------
+Sample #: 80
+Number of Guesses: 315
+Original Message and Hash : ce3bb4c8-4068-4a27-9bc3-d92abbb27cb0->64832
+Collision Message and Hash: 87eda3c0-9004-4353-8cda-453edb1d1169->64832
+-------------------------------------------------------------------------
+Sample #: 81
+Number of Guesses: 1541
+Original Message and Hash : 52a9c8f9-f286-4647-a8bf-b7f296cd3c6f->1016115
+Collision Message and Hash: bb588a6e-1911-4b5a-9085-2934a1c1a8a8->1016115
+-------------------------------------------------------------------------
+Sample #: 82
+Number of Guesses: 832
+Original Message and Hash : 286e42b2-1c6d-4e5d-852c-2d58ed6cb6cb->73529
+Collision Message and Hash: 04107827-f709-47d1-bb6c-3f78e9bcbaae->73529
+-------------------------------------------------------------------------
+Sample #: 83
+Number of Guesses: 721
+Original Message and Hash : efe0ee8a-9b3f-4c37-acd6-7771570257ab->944733
+Collision Message and Hash: bfa5820b-8ea6-4b56-8919-fe681ce113af->944733
+-------------------------------------------------------------------------
+Sample #: 84
+Number of Guesses: 933
+Original Message and Hash : 1d8eddc9-19b4-48fa-90c7-166cb044da57->919573
+Collision Message and Hash: cb3015bf-cfd6-4f10-b916-d37e502d420a->919573
+-------------------------------------------------------------------------
+Sample #: 85
+Number of Guesses: 1369
+Original Message and Hash : dfa6f7d2-102d-4290-ae3f-1b7721f55926->943263
+Collision Message and Hash: 7a5d6d3a-3d9f-4411-b1d0-8be110ce91f7->943263
+-------------------------------------------------------------------------
+Sample #: 86
+Number of Guesses: 637
+Original Message and Hash : ba8bdb7a-2e0e-4b88-b706-dfca2bb2eae9->197802
+Collision Message and Hash: ea2278ec-42d4-4f37-830e-e7669195a81d->197802
+-------------------------------------------------------------------------
+Sample #: 87
+Number of Guesses: 2415
+Original Message and Hash : 2f208d9c-78a2-4fb7-9d15-f5dfdaab5310->1011406
+Collision Message and Hash: c2d9f7c8-2124-4a41-928f-046bd423f064->1011406
+-------------------------------------------------------------------------
+Sample #: 88
+Number of Guesses: 946
+Original Message and Hash : 86d54010-2ed9-45fd-9ab7-3a87414063e3->818666
+Collision Message and Hash: 3021f408-ec59-42b5-bcb5-236e7139a42b->818666
+-------------------------------------------------------------------------
+Sample #: 89
+Number of Guesses: 1766
+Original Message and Hash : 53315878-2ac5-439b-ba21-870a30be3cf1->941215
+Collision Message and Hash: ad062e6c-6989-4a08-a872-78bde69b4806->941215
+-------------------------------------------------------------------------
+Sample #: 90
+Number of Guesses: 563
+Original Message and Hash : b43d3d5f-4afb-42bf-a7cf-e21801fad398->471355
+Collision Message and Hash: b42c04b3-84c5-4ef5-bbea-4ae4332570a3->471355
+-------------------------------------------------------------------------
+Sample #: 91
+Number of Guesses: 546
+Original Message and Hash : c9d4d5d1-2bbb-456b-8aa6-0df7f3ee16bf->730523
+Collision Message and Hash: 5753b5c4-ef7d-45fb-9b07-e97254e56783->730523
+-------------------------------------------------------------------------
+Sample #: 92
+Number of Guesses: 156
+Original Message and Hash : 6d91dd4c-f0a6-404d-b58d-40517fe42788->221998
+Collision Message and Hash: a46da057-6a15-4577-848e-a89165e632d5->221998
+-------------------------------------------------------------------------
+Sample #: 93
+Number of Guesses: 1546
+Original Message and Hash : 73d7b124-7476-4bcf-ad51-bb83938d5697->888490
+Collision Message and Hash: af98edee-fb73-472b-b4c2-72c87fa85468->888490
+-------------------------------------------------------------------------
+Sample #: 94
+Number of Guesses: 361
+Original Message and Hash : af138cd6-5b0a-49ca-8879-cade548c59af->860976
+Collision Message and Hash: 54c312ba-ae68-44eb-9371-f1f447926242->860976
+-------------------------------------------------------------------------
+Sample #: 95
+Number of Guesses: 1557
+Original Message and Hash : cba56ff8-f0d0-47e5-b63c-6c7c6c822f13->190383
+Collision Message and Hash: c6502940-f327-492e-acd1-fca019b52c8f->190383
+-------------------------------------------------------------------------
+Sample #: 96
+Number of Guesses: 1175
+Original Message and Hash : 68065ab2-1549-42d8-86d8-e8c4cff0bbbb->66463
+Collision Message and Hash: 6703152d-e863-4144-bb46-76189a2fb25a->66463
+-------------------------------------------------------------------------
+Sample #: 97
+Number of Guesses: 2024
+Original Message and Hash : 2dbda3df-4a82-4b2f-af6f-0403b417dd06->843087
+Collision Message and Hash: 279cdaa6-ea76-407c-afad-6c7287af5bf5->843087
+-------------------------------------------------------------------------
+Sample #: 98
+Number of Guesses: 751
+Original Message and Hash : 2b73e605-e33d-43af-a1f2-2dd3d881556b->264382
+Collision Message and Hash: 9ff8d1ae-1ac5-4915-ad39-e84b180decf6->264382
+-------------------------------------------------------------------------
+Sample #: 99
+Number of Guesses: 345
+Original Message and Hash : 70ffe4b0-34fc-4c5f-8c4a-f39d6ec53dda->136644
+Collision Message and Hash: 80adb6a6-640d-4bde-b556-403c42f210df->136644
+-------------------------------------------------------------------------
+Sample #: 100
+Number of Guesses: 438
+Original Message and Hash : b2f5c06a-0b2e-4dbf-ba92-7e64b1478787->774063
+Collision Message and Hash: 826d789e-0298-4fee-95d0-58112ea1e721->774063
+-------------------------------------------------------------------------
+Sample #: 101
+Number of Guesses: 611
+Original Message and Hash : 5e50e53e-4bb8-4b02-9057-5cc1d45c3c20->825751
+Collision Message and Hash: a002bbb1-3042-4548-a8b5-b3b8f9ea0565->825751
+-------------------------------------------------------------------------
+Sample #: 102
+Number of Guesses: 586
+Original Message and Hash : 5aea9f44-c5d4-4e3d-829a-b30fca36e5bb->1047961
+Collision Message and Hash: e3ca3d00-d0b8-4dfa-ba86-5bfc53cda82d->1047961
+-------------------------------------------------------------------------
+Sample #: 103
+Number of Guesses: 239
+Original Message and Hash : 125607da-a49d-483c-aea2-3d4c1708f8ac->986086
+Collision Message and Hash: 503dad48-d18e-48e1-92d2-1ba3136b4984->986086
+-------------------------------------------------------------------------
+Sample #: 104
+Number of Guesses: 829
+Original Message and Hash : db09a7cc-8c4e-4828-80a4-844eb33bf649->512458
+Collision Message and Hash: d2b7846e-3dfd-4702-9c5d-e61b1a7dda8f->512458
+-------------------------------------------------------------------------
+Sample #: 105
+Number of Guesses: 1527
+Original Message and Hash : 0f93efbb-caf9-4a3b-aac3-aebcfd59456c->120773
+Collision Message and Hash: a4206be2-1007-4de8-bddc-5e7c5c052a85->120773
+-------------------------------------------------------------------------
+Sample #: 106
+Number of Guesses: 1872
+Original Message and Hash : 5e84fa67-8cd7-4350-aa0e-5c9bffe72e28->651543
+Collision Message and Hash: 83c20da5-9b30-49aa-85a0-1efa537e29a1->651543
+-------------------------------------------------------------------------
+Sample #: 107
+Number of Guesses: 3089
+Original Message and Hash : 89903c4b-304a-432d-b37b-c029e03f14f8->369545
+Collision Message and Hash: 72a0aa0a-5ede-4ff3-a618-a3797aa91d6b->369545
+-------------------------------------------------------------------------
+Sample #: 108
+Number of Guesses: 629
+Original Message and Hash : b3a3fe13-69cb-4fd9-8366-b525e87e9e82->793376
+Collision Message and Hash: ca1f70a9-ccfe-4f2a-9595-a0db3ed99f3e->793376
+-------------------------------------------------------------------------
+Sample #: 109
+Number of Guesses: 795
+Original Message and Hash : f32bc9af-5758-4fd6-80dd-204610712d25->322611
+Collision Message and Hash: af28c49d-ed76-4139-99f7-9d566ff28524->322611
+-------------------------------------------------------------------------
+Sample #: 110
+Number of Guesses: 1255
+Original Message and Hash : 4807016b-5a2c-42f2-aa20-8f62d4e27293->585096
+Collision Message and Hash: 39c32fda-8ea7-4b20-b1f5-42507a1666a1->585096
+-------------------------------------------------------------------------
+Sample #: 111
+Number of Guesses: 1238
+Original Message and Hash : dd946060-d5cb-429e-a1d2-9de488769643->533464
+Collision Message and Hash: a9575a79-31b6-4357-a72a-65680d13fac9->533464
+-------------------------------------------------------------------------
+Sample #: 112
+Number of Guesses: 307
+Original Message and Hash : 82a615f8-dcc5-4d29-b040-ca46e91d5fd5->781395
+Collision Message and Hash: 5b793fa4-3c04-4446-9f5d-cf7f94859823->781395
+-------------------------------------------------------------------------
+Sample #: 113
+Number of Guesses: 1143
+Original Message and Hash : 562970d6-cec7-4671-962e-83933a2c549e->455659
+Collision Message and Hash: b2522274-1f13-4ce3-8089-37c1ff0f900a->455659
+-------------------------------------------------------------------------
+Sample #: 114
+Number of Guesses: 1193
+Original Message and Hash : 838d2978-b92d-4b73-90b6-c75175dad5ea->283628
+Collision Message and Hash: d9e1a92f-d7ce-4f5c-b23b-9c3328c69e79->283628
+-------------------------------------------------------------------------
+Sample #: 115
+Number of Guesses: 1925
+Original Message and Hash : 589f0819-cbcb-4edd-87b1-6dc498ebe7dc->289431
+Collision Message and Hash: 93027bdc-f0b2-4381-92a2-3910769eedab->289431
+-------------------------------------------------------------------------
+Sample #: 116
+Number of Guesses: 936
+Original Message and Hash : 79751d73-90c2-445b-b3a1-8eb29efab4ce->114200
+Collision Message and Hash: eed5c3f1-d084-494f-9bcf-dff96cf9e831->114200
+-------------------------------------------------------------------------
+Sample #: 117
+Number of Guesses: 727
+Original Message and Hash : d2ae905e-63c6-4623-ae52-cc8148fb8c22->783847
+Collision Message and Hash: 81d45fc8-31f6-4f7b-954a-2f4176783e16->783847
+-------------------------------------------------------------------------
+Sample #: 118
+Number of Guesses: 1277
+Original Message and Hash : b590ec36-6001-4691-a67f-87d8170937aa->89252
+Collision Message and Hash: a219c686-e3ef-4dff-bc5f-0c0b2b05819e->89252
+-------------------------------------------------------------------------
+Sample #: 119
+Number of Guesses: 1597
+Original Message and Hash : 37a5832d-ffbb-4dae-b2f8-2abc26cbcd26->895825
+Collision Message and Hash: 667efbdd-6d1f-4d36-89dc-812c61df1341->895825
+-------------------------------------------------------------------------
+Sample #: 120
+Number of Guesses: 1309
+Original Message and Hash : a01e2ee0-b0aa-445b-8e0e-ed6df97b086a->827478
+Collision Message and Hash: 72bc07b8-46da-47e1-a5ce-581c1747f2f3->827478
+-------------------------------------------------------------------------
+Sample #: 121
+Number of Guesses: 1544
+Original Message and Hash : 72e313d1-5197-467e-a5fd-f77159bd8bb2->652089
+Collision Message and Hash: c975fc0e-792c-4278-9e68-d1fe22543fe6->652089
+-------------------------------------------------------------------------
+Sample #: 122
+Number of Guesses: 401
+Original Message and Hash : bb7d5b3a-3616-459d-8228-e0fd829173a9->958624
+Collision Message and Hash: b4d06036-80c5-4ae9-8ff5-71c8e565d4bc->958624
+-------------------------------------------------------------------------
+Sample #: 123
+Number of Guesses: 2653
+Original Message and Hash : bd071c58-2e86-4815-9f61-8c6b77f72528->410120
+Collision Message and Hash: 94f35ff1-2bb7-40d1-8c6d-aecefd96d64f->410120
+-------------------------------------------------------------------------
+Sample #: 124
+Number of Guesses: 2270
+Original Message and Hash : 25cea541-8a97-4a4b-ae4b-7a3d943a1d28->129527
+Collision Message and Hash: dc14ab2f-6b9f-4a77-9b1c-6ae9c12ad221->129527
+-------------------------------------------------------------------------
+Sample #: 125
+Number of Guesses: 310
+Original Message and Hash : 4097bb44-a706-4132-987b-9ba8665095b8->518584
+Collision Message and Hash: 2c09858e-d348-4a6d-b793-aca810e7e0ea->518584
+-------------------------------------------------------------------------
+Sample #: 126
+Number of Guesses: 1336
+Original Message and Hash : e736d4f4-38c7-4e01-8015-3d56657a43d0->280719
+Collision Message and Hash: c0505d3a-9f04-4572-a4bf-eb9a4c98e2a3->280719
+-------------------------------------------------------------------------
+Sample #: 127
+Number of Guesses: 2502
+Original Message and Hash : 87017140-b849-4b2b-b798-b8b8e009df6f->327499
+Collision Message and Hash: 48b3446b-8106-444f-b9b5-7a6ef62bbad7->327499
+-------------------------------------------------------------------------
+Sample #: 128
+Number of Guesses: 715
+Original Message and Hash : 21f2276f-180e-4113-bb63-a2a8cf81f9c5->596778
+Collision Message and Hash: 2e7cd443-c528-47bb-94ee-eb7adffdf781->596778
+-------------------------------------------------------------------------
+Sample #: 129
+Number of Guesses: 1850
+Original Message and Hash : 3de6ed73-848e-4546-b52d-88ac9a845bd1->652850
+Collision Message and Hash: e514fb07-93ef-4964-8638-e75a93f617ff->652850
+-------------------------------------------------------------------------
+Sample #: 130
+Number of Guesses: 2109
+Original Message and Hash : 9b5e8949-709c-462e-940f-2d34b1b09892->865886
+Collision Message and Hash: b8a397c2-238c-458f-9d4c-cdea9aeddbc6->865886
+-------------------------------------------------------------------------
+Sample #: 131
+Number of Guesses: 215
+Original Message and Hash : 2869fc00-d69d-4176-b06b-7dabcaa24e90->588407
+Collision Message and Hash: 571a6131-7bd9-4bb2-b3d8-ed3aaf20e2cd->588407
+-------------------------------------------------------------------------
+Sample #: 132
+Number of Guesses: 1872
+Original Message and Hash : 9c960e4c-b38b-437b-a35c-7926a5e18b59->278917
+Collision Message and Hash: 9e10b631-5eed-49eb-b7d8-756ba48a7d51->278917
+-------------------------------------------------------------------------
+Sample #: 133
+Number of Guesses: 416
+Original Message and Hash : e669520e-32e0-426c-917d-bfd8ceae29cb->162235
+Collision Message and Hash: ba6d638a-99b9-45d9-812b-a1dab69ec7f3->162235
+-------------------------------------------------------------------------
+Sample #: 134
+Number of Guesses: 1621
+Original Message and Hash : 71c4bace-820f-47ec-a66f-784549cba7e1->502329
+Collision Message and Hash: a0ccd174-713e-48e6-89ac-71ac78c72aca->502329
+-------------------------------------------------------------------------
+Sample #: 135
+Number of Guesses: 758
+Original Message and Hash : 0e490b60-e2d9-44e0-add4-c9c8804c762e->157077
+Collision Message and Hash: 559b2622-c7b9-4a1f-8387-493500a3c49a->157077
+-------------------------------------------------------------------------
+Sample #: 136
+Number of Guesses: 2801
+Original Message and Hash : 54a83707-ad07-4ade-9f16-6c8e6b5b1840->18141
+Collision Message and Hash: 1823675e-83e3-466e-9024-80b13704f5e7->18141
+-------------------------------------------------------------------------
+Sample #: 137
+Number of Guesses: 1536
+Original Message and Hash : ac5c801d-8083-4fca-b476-eb09cfb78a85->130605
+Collision Message and Hash: 9699bf0f-916f-4614-8b26-763122805186->130605
+-------------------------------------------------------------------------
+Sample #: 138
+Number of Guesses: 697
+Original Message and Hash : 033b1c4f-7322-45cd-8ced-851d742843cf->909772
+Collision Message and Hash: f24acbf2-5cbb-49d4-b3bc-58b566c9841f->909772
+-------------------------------------------------------------------------
+Sample #: 139
+Number of Guesses: 1990
+Original Message and Hash : bc459be7-dde3-4eb4-9891-791b10dc9255->643723
+Collision Message and Hash: dc0d011f-2e05-4412-9bb5-f3e102b81d8e->643723
+-------------------------------------------------------------------------
+Sample #: 140
+Number of Guesses: 1852
+Original Message and Hash : 8cbd9d74-08fa-45c9-a6c3-054572a63b9e->371588
+Collision Message and Hash: 39c84b77-cdd6-482b-af90-2c503f7f226a->371588
+-------------------------------------------------------------------------
+Sample #: 141
+Number of Guesses: 598
+Original Message and Hash : a18df570-1380-41f6-890f-71c805116ca3->869495
+Collision Message and Hash: 5dc8dcbe-b111-4267-8a91-5063349e6218->869495
+-------------------------------------------------------------------------
+Sample #: 142
+Number of Guesses: 1185
+Original Message and Hash : 5e88edfa-33a4-429b-8105-e0ee3e136046->725289
+Collision Message and Hash: ce443bb4-a032-4191-bd49-ae671a87705e->725289
+-------------------------------------------------------------------------
+Sample #: 143
+Number of Guesses: 1392
+Original Message and Hash : a07bda0b-dbe9-415b-bedc-c79ecfb0f830->717075
+Collision Message and Hash: d08ee0ca-4a6f-4e2b-9496-eae0613587cd->717075
+-------------------------------------------------------------------------
+Sample #: 144
+Number of Guesses: 1407
+Original Message and Hash : 5bc41b22-1522-4c62-b21e-3a65df01bdba->669481
+Collision Message and Hash: 5339437e-908e-40c5-b91b-fdb5bbf752a8->669481
+-------------------------------------------------------------------------
+Sample #: 145
+Number of Guesses: 1445
+Original Message and Hash : ac90b2a9-f2d4-4b52-ba96-08ee361869d3->65709
+Collision Message and Hash: f073c505-0dfb-4370-b9cb-8fe305425fff->65709
+-------------------------------------------------------------------------
+Sample #: 146
+Number of Guesses: 530
+Original Message and Hash : 89ff6ad1-1c2c-46cc-b166-47a02d8343ae->149149
+Collision Message and Hash: 658a5fde-b2cc-4a41-ada2-84e95c0a6b31->149149
+-------------------------------------------------------------------------
+Sample #: 147
+Number of Guesses: 1771
+Original Message and Hash : b2907ad0-cacf-46be-a979-7daf0620f66f->725410
+Collision Message and Hash: 0fe3c54c-1409-4a0c-a2fe-c3255e1e57ae->725410
+-------------------------------------------------------------------------
+Sample #: 148
+Number of Guesses: 1464
+Original Message and Hash : 39eb1a6d-8f16-4a63-8029-64582d9bb61d->645806
+Collision Message and Hash: fabf5d41-a6b5-4745-ab9b-fe1ef0bc83b1->645806
+-------------------------------------------------------------------------
+Sample #: 149
+Number of Guesses: 1113
+Original Message and Hash : d89b8503-5286-4aa9-b36e-5714b0887789->720105
+Collision Message and Hash: 1ef57c66-0e93-4f4e-887e-e8557e0d8afe->720105
+-------------------------------------------------------------------------
+Sample #: 150
+Number of Guesses: 2808
+Original Message and Hash : 6e813002-b21e-4a27-9dd8-db8f31133114->268801
+Collision Message and Hash: 90aaa6e8-7eed-44b8-ab67-f8cde57634ed->268801
+-------------------------------------------------------------------------
+Sample #: 151
+Number of Guesses: 1223
+Original Message and Hash : 886c35f7-bcc3-42d9-9b0f-affb295698ce->300056
+Collision Message and Hash: 0584a329-9d98-48ba-8d0b-a37eacfbefdf->300056
+-------------------------------------------------------------------------
+Sample #: 152
+Number of Guesses: 1572
+Original Message and Hash : 23f8a35b-4131-49ae-984b-a3f082fa3c51->579065
+Collision Message and Hash: 6a79f6cd-604d-4800-8a68-771f9ecea72b->579065
+-------------------------------------------------------------------------
+Sample #: 153
+Number of Guesses: 932
+Original Message and Hash : 3b206274-10cb-4e21-a694-8d44ee82c88d->929181
+Collision Message and Hash: 2d15f98c-32eb-436e-b095-1e892ad96629->929181
+-------------------------------------------------------------------------
+Sample #: 154
+Number of Guesses: 2860
+Original Message and Hash : d65344ee-3948-43dd-b292-fd2328a09a25->64146
+Collision Message and Hash: 4085784f-70df-4a6b-8c36-39d725c8382f->64146
+-------------------------------------------------------------------------
+Sample #: 155
+Number of Guesses: 2548
+Original Message and Hash : 07cdf33a-eafb-4929-acc4-9c57d1f7bd1f->87483
+Collision Message and Hash: b5f383f6-b0e7-49a3-a2bf-fc1a5a79e69a->87483
+-------------------------------------------------------------------------
+Sample #: 156
+Number of Guesses: 572
+Original Message and Hash : 6617cd8d-e0ac-4d60-ae83-d6e2b6b6e6f3->765424
+Collision Message and Hash: 11f2661a-a047-42b4-bf43-bf5b871ce0b5->765424
+-------------------------------------------------------------------------
+Sample #: 157
+Number of Guesses: 1293
+Original Message and Hash : f60ddcba-1717-4488-bded-0b5b003f1582->28899
+Collision Message and Hash: 2f2f7de0-b1a7-481c-9541-199a09f23ae7->28899
+-------------------------------------------------------------------------
+Sample #: 158
+Number of Guesses: 870
+Original Message and Hash : b157b319-8e16-4d06-8ec3-947c1801b7c2->5674
+Collision Message and Hash: 35485bbe-f81e-4e58-93b9-caf5fad82665->5674
+-------------------------------------------------------------------------
+Sample #: 159
+Number of Guesses: 1955
+Original Message and Hash : 5db07262-649c-473d-8f4a-0e0ad07259fb->166819
+Collision Message and Hash: c452d382-9d82-428a-a90d-090ec7c41271->166819
+-------------------------------------------------------------------------
+Sample #: 160
+Number of Guesses: 730
+Original Message and Hash : 78cb6b4a-18be-4572-bfee-22554e216353->412087
+Collision Message and Hash: 174feb19-af73-4fa3-8fe7-dd07a29ad954->412087
+-------------------------------------------------------------------------
+Sample #: 161
+Number of Guesses: 437
+Original Message and Hash : 03453b8b-91d5-4549-899a-ec89a3c130a9->186701
+Collision Message and Hash: 54ef5169-d14c-4008-8192-3590bf8fbddb->186701
+-------------------------------------------------------------------------
+Sample #: 162
+Number of Guesses: 1677
+Original Message and Hash : abcbe2bc-3e65-4a6c-8078-c435e906edbf->10051
+Collision Message and Hash: 1d3243fc-c8c5-42dd-b9a4-530e245eb4a2->10051
+-------------------------------------------------------------------------
+Sample #: 163
+Number of Guesses: 843
+Original Message and Hash : b1126aa5-9535-4100-8564-c88b1051a74b->582744
+Collision Message and Hash: 70d2cbda-142b-470d-bae4-5de7156cc1ec->582744
+-------------------------------------------------------------------------
+Sample #: 164
+Number of Guesses: 2475
+Original Message and Hash : 54e64663-dd21-4fd4-8c0a-7523df0a3835->423460
+Collision Message and Hash: 3df99aa0-945f-420a-b409-8a850d9e3099->423460
+-------------------------------------------------------------------------
+Sample #: 165
+Number of Guesses: 3008
+Original Message and Hash : 49288755-f7d9-4fbe-99d3-123d29c41257->892182
+Collision Message and Hash: dfcd149e-5a3f-4c0e-997b-8ec6bef992b3->892182
+-------------------------------------------------------------------------
+Sample #: 166
+Number of Guesses: 2241
+Original Message and Hash : 71a43827-6183-4f89-84b7-ece0b2dab44c->369296
+Collision Message and Hash: aa5a4413-ff96-4b8d-acde-f9534971e5af->369296
+-------------------------------------------------------------------------
+Sample #: 167
+Number of Guesses: 806
+Original Message and Hash : cb8d5f0c-8733-4478-b004-62ca13522b76->877651
+Collision Message and Hash: 053b99f4-7e2f-47ad-94fa-4a2982a88466->877651
+-------------------------------------------------------------------------
+Sample #: 168
+Number of Guesses: 974
+Original Message and Hash : a35ac16f-5289-466e-ae20-b318ce4eaf98->331647
+Collision Message and Hash: bb5406fd-8d20-4597-86d9-ab5ea5ea8303->331647
+-------------------------------------------------------------------------
+Sample #: 169
+Number of Guesses: 2242
+Original Message and Hash : 46713968-eacd-4d24-be5e-3d26177f37fe->612019
+Collision Message and Hash: f64607dd-d8f6-4220-bd0c-2ffaedd2ca6b->612019
+-------------------------------------------------------------------------
+Sample #: 170
+Number of Guesses: 1935
+Original Message and Hash : f73092d9-4e11-4ca0-bc90-8329ff03fe95->958234
+Collision Message and Hash: 70a1a98a-0d7d-462c-b052-9c9ab5a5d51c->958234
+-------------------------------------------------------------------------
+Sample #: 171
+Number of Guesses: 683
+Original Message and Hash : 4d77e1b2-a67f-46c3-a065-aa58359532a7->311986
+Collision Message and Hash: c2ffc83f-aa67-4136-a2d2-9b6fc52dc69f->311986
+-------------------------------------------------------------------------
+Sample #: 172
+Number of Guesses: 1053
+Original Message and Hash : 8362762f-8b07-4778-9e31-c15cb8c96aba->320175
+Collision Message and Hash: 33b95fb8-280f-4932-b561-9148bd771ac8->320175
+-------------------------------------------------------------------------
+Sample #: 173
+Number of Guesses: 1490
+Original Message and Hash : e7120e87-aa96-460f-aa19-f2a4eb7a42d4->988217
+Collision Message and Hash: e30be22b-1b23-4505-af53-07061f919c74->988217
+-------------------------------------------------------------------------
+Sample #: 174
+Number of Guesses: 1817
+Original Message and Hash : 0abffbce-ceda-46a8-b01b-201f5114d70a->1038558
+Collision Message and Hash: aee46b57-86b7-45b8-884b-7fa824daa8fb->1038558
+-------------------------------------------------------------------------
+Sample #: 175
+Number of Guesses: 523
+Original Message and Hash : 472c098a-1863-4e00-9363-09a8968cee95->826570
+Collision Message and Hash: 5568086b-6e6c-4f7a-9aec-1a3f12c57f68->826570
+-------------------------------------------------------------------------
+Sample #: 176
+Number of Guesses: 1578
+Original Message and Hash : 1288e5b9-b5d6-47d0-ba02-16405b97d3c5->69097
+Collision Message and Hash: c1e0b11d-06e8-415c-855f-4bdb789eb810->69097
+-------------------------------------------------------------------------
+Sample #: 177
+Number of Guesses: 826
+Original Message and Hash : 2288c344-17ec-4356-8de0-093ab30624cd->720796
+Collision Message and Hash: 8fc5d3eb-3ae9-45ed-a253-ea6eeefa3ce7->720796
+-------------------------------------------------------------------------
+Sample #: 178
+Number of Guesses: 1212
+Original Message and Hash : ba3bbb3c-3c37-444c-bb85-3f1d933fb17d->172741
+Collision Message and Hash: 22279db8-f847-4669-9698-3f6e9e9bf975->172741
+-------------------------------------------------------------------------
+Sample #: 179
+Number of Guesses: 497
+Original Message and Hash : c4850178-5f43-494b-83c0-6a0a928fcebf->292893
+Collision Message and Hash: 54d73f9a-7ea2-4707-888f-f758ecca50e0->292893
+-------------------------------------------------------------------------
+Sample #: 180
+Number of Guesses: 1844
+Original Message and Hash : 65297409-e2f9-4ed8-9377-9ff952ae4bd3->705099
+Collision Message and Hash: 5df6d16a-ed05-4e29-aa13-1b1c9f75b7e3->705099
+-------------------------------------------------------------------------
+Sample #: 181
+Number of Guesses: 914
+Original Message and Hash : c4f2de97-006e-4fa8-8f98-9ad611db6404->784469
+Collision Message and Hash: c74c8e41-7982-4937-a8c2-a57d5b3a657d->784469
+-------------------------------------------------------------------------
+Sample #: 182
+Number of Guesses: 1237
+Original Message and Hash : f0f70634-9f11-4572-910e-399ca69103e9->839031
+Collision Message and Hash: da7d3a9e-6477-44e4-900e-6b248e7ab6a5->839031
+-------------------------------------------------------------------------
+Sample #: 183
+Number of Guesses: 1191
+Original Message and Hash : 1442781b-485e-47ef-834d-cc6594d423f3->147127
+Collision Message and Hash: 5e75fb8f-f27b-4f38-baaf-13f5ae38f71b->147127
+-------------------------------------------------------------------------
+Sample #: 184
+Number of Guesses: 282
+Original Message and Hash : 1b6b5a7e-37d3-46fa-add8-110d7a840538->874120
+Collision Message and Hash: 7fdeeeb2-f87c-42b7-b463-3f908f84a97e->874120
+-------------------------------------------------------------------------
+Sample #: 185
+Number of Guesses: 2552
+Original Message and Hash : 00fc4eed-4569-46cf-ad44-d7b1ece196af->680195
+Collision Message and Hash: feb2a798-7b9b-4db0-9a08-a7e1529a5923->680195
+-------------------------------------------------------------------------
+Sample #: 186
+Number of Guesses: 2632
+Original Message and Hash : 73ea214e-75fb-4f79-94c3-b4ba3675ced0->457886
+Collision Message and Hash: 3a1de0c3-7c73-4456-960c-600b5e78b052->457886
+-------------------------------------------------------------------------
+Sample #: 187
+Number of Guesses: 1610
+Original Message and Hash : 36278562-113b-4b4d-b1de-b69fe779121c->208551
+Collision Message and Hash: 6c6ce217-5435-4680-b44f-86245577d200->208551
+-------------------------------------------------------------------------
+Sample #: 188
+Number of Guesses: 2275
+Original Message and Hash : a825e37f-01ea-4205-b3c2-283b5fcefa3e->109073
+Collision Message and Hash: 6befc065-a7cd-4753-839f-bb59f268b95c->109073
+-------------------------------------------------------------------------
+Sample #: 189
+Number of Guesses: 1333
+Original Message and Hash : 65e68834-91eb-4375-aa1d-d67d1953e254->261061
+Collision Message and Hash: 32254d84-c646-4304-93b7-0b91fea627ec->261061
+-------------------------------------------------------------------------
+Sample #: 190
+Number of Guesses: 1497
+Original Message and Hash : b212d847-756c-4454-946e-c30a35e42be5->513071
+Collision Message and Hash: 16d47fef-79ce-40ec-953f-da26b1bbbf07->513071
+-------------------------------------------------------------------------
+Sample #: 191
+Number of Guesses: 1815
+Original Message and Hash : f5dcc580-9b8d-491b-b148-f6e0d572868e->113434
+Collision Message and Hash: 22d6eca7-1fac-4830-85b0-a2243aa55160->113434
+-------------------------------------------------------------------------
+Sample #: 192
+Number of Guesses: 983
+Original Message and Hash : 0fd21618-293c-48fd-9680-67d288ff4168->543109
+Collision Message and Hash: 31705599-82a8-407b-b897-7396c8c7844e->543109
+-------------------------------------------------------------------------
+Sample #: 193
+Number of Guesses: 358
+Original Message and Hash : c9eeeef9-534c-4585-9093-9d3d016b6857->377984
+Collision Message and Hash: 651f921c-37b4-4ab0-87d9-857026c9782f->377984
+-------------------------------------------------------------------------
+Sample #: 194
+Number of Guesses: 1709
+Original Message and Hash : c90f4d0a-cf9a-45a3-ab38-3c26b7cefc1c->18086
+Collision Message and Hash: 997feac7-1360-43b0-88f0-235016fb8b06->18086
+-------------------------------------------------------------------------
+Sample #: 195
+Number of Guesses: 751
+Original Message and Hash : 8c1356a2-38b2-486a-8ff5-1bdd60436241->855045
+Collision Message and Hash: 6f7fbb22-7795-4e96-97c9-36e72a0602d5->855045
+-------------------------------------------------------------------------
+Sample #: 196
+Number of Guesses: 2512
+Original Message and Hash : 78025fb1-a613-4b75-97a6-78be2d35681b->617355
+Collision Message and Hash: 44117d3f-8932-4e47-a4ad-9f67f03941a8->617355
+-------------------------------------------------------------------------
+Sample #: 197
+Number of Guesses: 1011
+Original Message and Hash : c0b15d31-8df4-40d0-bc7b-29a3996b2e37->573060
+Collision Message and Hash: dc48d8b8-3b01-4809-bca5-c6d3d6b0e3fb->573060
+-------------------------------------------------------------------------
+Sample #: 198
+Number of Guesses: 1548
+Original Message and Hash : 73f6f7f1-dadd-494b-8a1c-c1239572fbbd->309580
+Collision Message and Hash: 6847b4be-6d57-422d-a1d7-7c36ba9c40cc->309580
+-------------------------------------------------------------------------
+Sample #: 199
+Number of Guesses: 2081
+Original Message and Hash : b9eade15-6b64-47e6-805b-ed0746d3f4f4->331028
+Collision Message and Hash: c98fe7d4-0a77-4e4f-80a9-b05b4364731c->331028
+-------------------------------------------------------------------------
+Sample #: 200
+Number of Guesses: 1420
+Original Message and Hash : 029d1084-b6b3-4e21-b45c-d0028be28865->273739
+Collision Message and Hash: 2d2c6071-13cf-42cd-ba9b-56c0b592975f->273739
+-------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------
+*************************************************************************
+-------------------------------------------------------------------------
+
+Aggregate Data
+Average Number of Guesses: 1294
+Average Deviation:         270
+Average Deviation Percent: 0.20865533230293662
